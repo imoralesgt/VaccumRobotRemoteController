@@ -1,3 +1,9 @@
+/*
+ * Dependencies:
+ * - IRremoteESP8266
+ * 
+ */
+
 #include <stdio.h>
 #include <IRsend.h>
 
